@@ -15,3 +15,7 @@ I've built a cafe menu on the (New) Responsive Web Design Curriculum in FreeCode
 ### R1D3
 
 I've built a set of colored markers on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D3
+
+I've built a registration form on the (New) Responsive Web Design Curriculum in FreeCodeCamp.

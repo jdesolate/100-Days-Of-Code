@@ -29,3 +29,13 @@
 **Link(s) to work**
 
 1. [Learn CSS Colors by Building a Set of Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 4: June 30, 2022 Thursday
+
+**Today's Progress**: I've built a registration form in freeCodeCamp.
+
+**Thoughts** Learned about the diff. attributes of inputs & used attribute selectors to style specific elements
+
+**Link(s) to work**
+
+1. [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
