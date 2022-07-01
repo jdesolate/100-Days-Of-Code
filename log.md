@@ -39,3 +39,13 @@
 **Link(s) to work**
 
 1. [Learn HTML Forms by Building a Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 5: July 1, 2022 Friday
+
+**Today's Progress**: I've built my own survey form for the first certification project in freeCodeCamp. 
+
+**Thoughts** Took an hour and a half testing and styling elements. Learned about putting opacity on background image in css.
+
+**Link(s) to work**
+
+1. [Survey Form Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
