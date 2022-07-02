@@ -49,3 +49,15 @@
 **Link(s) to work**
 
 1. [Survey Form Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 6: July 2, 2022 Saturday
+
+**Today's Progress**: I've built a Rothko Painting and Cat Photo Gallery in freeCodeCamp. 
+
+**Thoughts** Refreshed knowledge about margin, padding, border in CSS Box Model and also Flexbox Model.
+
+**Link(s) to work**
+
+1. [Learn CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+2. [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

@@ -23,3 +23,8 @@ I've built a registration form on the (New) Responsive Web Design Curriculum in 
 ### R1D5
 
 I've built my own survey form for the first certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D6
+
+I've built a Rothko Painting and Cat Photo Gallery on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
