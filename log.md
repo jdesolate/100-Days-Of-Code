@@ -61,3 +61,13 @@
 1. [Learn CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 2. [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 7: July 3, 2022 Sunday
+
+**Today's Progress**: I've built a Nutrition Label in freeCodeCamp. 
+
+**Thoughts** Learned basic typography and styling text that suits its purpose in HTML and CSS.
+
+**Link(s) to work**
+
+1. [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
