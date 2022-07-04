@@ -71,3 +71,13 @@
 **Link(s) to work**
 
 1. [Learn Typography by Building a Nutrition Label](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 8: July 4, 2022 Monday
+
+**Today's Progress**: I've built a Quiz in freeCodeCamp. 
+
+**Thoughts** Learned semantic html, accessibility tools, some of the best design practices.
+
+**Link(s) to work**
+
+1. [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

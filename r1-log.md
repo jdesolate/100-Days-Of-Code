@@ -31,3 +31,7 @@ I've built a Rothko Painting and Cat Photo Gallery on the (New) Responsive Web D
 ### R1D7
 
 I've built a Nutrition Label on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D8
+
+I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
