@@ -81,3 +81,13 @@
 **Link(s) to work**
 
 1. [Learn Accessibility by Building a Quiz](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 9: July 5, 2022 Tuesday
+
+**Today's Progress**: I've started building my own tribute page for the second certification project in freeCodeCamp. 
+
+**Thoughts** Finished structuring the page, will proceed to styling and finalizing content.
+
+**Link(s) to work**
+
+1. [Tribute Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

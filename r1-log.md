@@ -35,3 +35,7 @@ I've built a Nutrition Label on the (New) Responsive Web Design Curriculum in Fr
 ### R1D8
 
 I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D9
+
+ I've started building my own tribute page for the second certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
