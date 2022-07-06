@@ -91,3 +91,13 @@
 **Link(s) to work**
 
 1. [Tribute Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 10: July 6, 2022 Wednesday
+
+**Today's Progress**: I've finished building my tribute page for the second certification project in freeCodeCamp. 
+
+**Thoughts** I dedicate this tribute page to our national hero, Dr. Jose Rizal. You can check him out on his Wikipedia entry :)
+
+**Link(s) to work**
+
+1. [Tribute Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
