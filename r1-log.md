@@ -43,3 +43,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D10
 
  I've finished building my own tribute page for the second certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D11
+
+ I've started building a balance sheet on the (New) Responsive Web Design Curriculum in FreeCodeCamp.

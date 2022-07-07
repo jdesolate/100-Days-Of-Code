@@ -101,3 +101,13 @@
 **Link(s) to work**
 
 1. [Tribute Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 11: July 7, 2022 Thursday
+
+**Today's Progress**: I've started building a balance sheet to learn CSS Pseudo Selectors in freeCodeCamp. 
+
+**Thoughts** After midnight work, had to finish only half of the course. Been busy with life other things 
+
+**Link(s) to work**
+
+1. [Learn More About CSS Pseudo Selectors By Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
