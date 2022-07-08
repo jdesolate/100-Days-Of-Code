@@ -106,7 +106,17 @@
 
 **Today's Progress**: I've started building a balance sheet to learn CSS Pseudo Selectors in freeCodeCamp. 
 
-**Thoughts** After midnight work, had to finish only half of the course. Been busy with life other things 
+**Thoughts** After midnight work, had to finish only half of the course. Been busy with other things and internship.
+
+**Link(s) to work**
+
+1. [Learn More About CSS Pseudo Selectors By Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 12: July 8, 2022 Friday
+
+**Today's Progress**: I've finished building a balance sheet to learn CSS Pseudo Selectors in freeCodeCamp. 
+
+**Thoughts** Finally finished the CSS pseudo selectors,
 
 **Link(s) to work**
 
