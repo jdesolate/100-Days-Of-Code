@@ -121,3 +121,14 @@
 **Link(s) to work**
 
 1. [Learn More About CSS Pseudo Selectors By Building A Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 13: July 9, 2022 Saturday
+
+**Today's Progress**: I've finished building a Picasso Painting to learn Intermediate CSS in freeCodeCamp. 
+
+**Thoughts** Reviewed about CSS positioning, and other CSS skills i've learned. 
+
+**Link(s) to work**
+
+1. [Learn Intermediate CSS by Building a Picasso Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+

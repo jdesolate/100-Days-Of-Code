@@ -51,3 +51,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D12
 
  I've finished building a balance sheet on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D13
+
+ I've finished building a Picasso Painting on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
