@@ -132,3 +132,13 @@
 
 1. [Learn Intermediate CSS by Building a Picasso Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 14: July 10, 2022 Sunday
+
+**Today's Progress**: I've finished building a piano to learn Responsive Web Design in freeCodeCamp. 
+
+**Thoughts** Already halfway done to get my cert lezzgoo! Currently on my 3rd certification project :D
+
+**Link(s) to work**
+
+1. [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
