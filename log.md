@@ -142,3 +142,13 @@
 
 1. [Learn Responsive Web Design by Building a Piano](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 15: July 11, 2022 Monday
+
+**Today's Progress**: I've started building a Technical Documentation Page in FreeCodeCamp.
+
+**Thoughts** Done structuring, will finalize content and styling next.
+
+**Link(s) to work**
+
+1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+

@@ -59,3 +59,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D14
 
  I've finished building a Piano on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D15
+
+ I've started building a Technical Documentation Page on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
