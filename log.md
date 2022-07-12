@@ -152,3 +152,13 @@
 
 1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 16: July 12, 2022 Tuesday
+
+**Today's Progress**: I've continued building the Technical Documentation Page in FreeCodeCamp.
+
+**Thoughts** Decided to make chakra documentation for inspiration.
+
+**Link(s) to work**
+
+1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
