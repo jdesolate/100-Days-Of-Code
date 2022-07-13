@@ -162,3 +162,13 @@
 
 1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 17: July 13, 2022 Wednesday
+
+**Today's Progress**: Finally finished my 3rd certification project in freeCodeCamp :D
+
+**Thoughts** Took about 2 hours after continuing yesterday's progress.
+
+**Link(s) to work**
+
+1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+

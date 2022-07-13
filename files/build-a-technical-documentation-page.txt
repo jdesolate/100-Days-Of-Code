@@ -1,0 +1,444 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Getting Started with Chakra</title>
+   <meta charset='UTF-8' />
+   <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+   <link rel='stylesheet' href='styles.css' />
+ </head>
+ <body>
+   <nav id='navbar'>
+     <header><a class='logo' href='https://chakra-ui.com/'><img src='https://www.coffeeclass.io/logos/chakra-ui.png'/>chakra</a></header>
+      <a class='nav-link' href='#installation'>Installation</a>
+      <a class='nav-link' href='#framework_guide'>Framework Guide</a>
+      <a class='nav-link' href='#learn'>Learn</a>
+      <a class='nav-link' href='#contribute'>Contribute</a>
+      <a class='nav-link' href='#upgrading_to_v2'>Upgrading to V2</a>
+   </nav>
+   <main id='main-doc'>
+     <h1>Getting Started with Chakra</h1>
+     <section class='main-section' id='installation'>
+       <header><h2>Installation</h2></header>
+       <p>To use Chakra UI in your project, run the following command in your terminal:</p>
+       <div class='code'>
+        <div class='copy'>COPY</div>
+        <code><span class='function'>npm</span> i @chakra-ui/react @emotion/react @emotion/styled framer-motion </code>
+        <code><span class='comment'># or</span></code>
+        <code><span class='function'>yarn add</span>  @chakra-ui/react @emotion/react @emotion/styled framer-motion</code>
+       </div>
+       <p>After installing Chakra UI, you need to set up the <span class='purple-text'>ChakraProvider</span> at the root of your application. This can be either in your <span class='purple-text'>index.js</span>, <span class='purple-text'>index.tsx</span> or <span class='purple-text'>App.jsx</span> depending on the framework you use.</p>
+       <div class='code'>
+        <div class='copy'>COPY</div>
+        <code><span class='import'>import * as</span> React <span class='import'>from</span> <span class='text-code'>'react'</span><br/><br/></code>
+        <code><span class='comment'>// 1. import `ChakraProvider` component</span></code>
+        <code><span class='import'>import </span><span class='purple'> {</span> ChakraProvider <span class='purple'>} </span><span class='import'>from</span> <span class='text-code'>'@chakra-ui/react'</span><br/><br/></code>
+        <code><span class='import'>function </span><span class='function'>App</span><span class='purple'>() {</span><br/></code>
+        <code>&nbsp&nbsp<span class='comment'>// 2. Wrap ChakraProvider at the root of your app</span><br/></code>
+        <code>&nbsp&nbsp<span class='import'>return </span><span class='purple'> (</span><br/></code>
+        <code>&nbsp&nbsp&nbsp&nbsp<span class='purple'>< </span><span class='orange'>ChakraProvider </span><span class='purple'>></span><br/></code>
+        <code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span class='purple'>< </span><span class='orange'>TheRestOfYourApplication  </span><span class='purple'>/></span><br/></code>
+        <code>&nbsp&nbsp&nbsp&nbsp<span class='purple'><</span><span class='purple'>/ </span><span class='orange'>ChakraProvider </span><span class='purple'>></span><br/></code>
+        <code>&nbsp&nbsp<span class='purple'>)</span><br/></code>
+        <code><span class='purple'>}</span><br/></code>
+       </div>
+     </section>
+     <section class='main-section' id='framework_guide'>
+       <header><h2>Framework Guide</h2></header>
+       <p>Chakra UI works in your favorite framework. We've put together step-by-step guides for these frameworks:</p>
+       <div class='framework-grid'>
+        <li>
+          <img src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' />  <p class='framework-text react'>Create React App</p>
+        </li>
+        <li>
+          <img src='https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg' /> <p class='framework-text next'>Next.js</p>
+        </li>
+        <li>
+          <img src='https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png' /><p class='framework-text gatsby'>Gatsby</p>
+        </li>
+        <li>
+          <img src='https://pbs.twimg.com/profile_images/1260441898264731649/nTCxuIQ-_400x400.jpg' /><p class='framework-text blitz'>BlitzJS</p>
+        </li>
+        <li>
+          <img src='https://avatars2.githubusercontent.com/u/45050444?v=4' /><p class='framework-text redwood'>RedwoodJS</p>
+        </li>
+        <li>
+          <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--ueA6xxzU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c97xibe1v9sti8zd6oqu.png' /><p class='framework-text remix'>Remix</p>
+        </li>
+        <li>
+          <img src='https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667' /><p class='framework-text vite'>Vite</p>
+        </li>
+       <div>
+     </section>
+     <section class='main-section' id='learn'>
+       <header><h2>Learn</h2></header>
+       <p>Watch our official courses and dive into dozens of videos that will teach you everything you need to know about Chakra UI, from basics to advanced concepts.</p>
+       <div>
+         <img src='https://chakra-ui.com/_next/image?url=%2Fcourse-banners%2Fegghead-course.png&w=1200&q=75'/>
+         <h3>Egghead Course</h3>
+       </div>
+       <div>
+         <img src='https://chakra-ui.com/_next/image?url=%2Fcourse-banners%2Fchakra-ui-for-beginners.png&w=1920&q=75'/>
+         <h3>Chakra UI for beginners</h3>
+       </div>
+     </section>
+     <section class='main-section' id='contribute'>
+       <header><h2>Contribute</h2></header>
+       <p>Whether you're a beginner or advanced Chakra UI user, joining our community is the best way to connect with like-minded people who build great products with the library.</p>
+       <figure class='row'>
+         <div>
+         <img src='https://upload.wikimedia.org/wikipedia/commons/9/9f/Discord_icon.svg'/>
+         <h3>Join the Discord</h3>
+       </div>
+       <div>
+         <img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg'/>
+         <h3>Follow us on Twitter</h3>
+       </div>
+       </figure>
+     </section>
+     <section class='main-section' id='upgrading_to_v2'>
+       <header><h2>Upgrading to V2</h2></header>
+       <p>Chakra UI v2 is focused on providing compatibility for React 18. Doing so we had to introduce some breaking changes. That lead us to remove some features that we deprecated previously.</p>
+     </section>
+
+   </main>
+ </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  background-color: #1A202C;
+}
+
+body{
+  display: flex;
+  position: relative;
+}
+
+h1,h2, a, p, code, li, p, header{
+  color: #EDF2F7;
+}
+
+h1{
+    line-height: 1.2;
+    font-weight: 700;
+    font-size: 1.9rem;
+    letter-spacing: -.025em;
+}
+
+h2{
+    margin-top: 2rem;
+    line-height: 1.2;
+    font-weight: 700;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+p {
+  margin-top: 1.25rem;
+  line-height: 1.7;
+}
+
+#navbar{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 2.5rem 1rem;
+  border-right: 2px solid grey;
+  align-items: center;
+  position: fixed;
+  height: 100%;
+}
+
+.logo{
+  margin: 0 0 1rem 0;
+  padding: 0.5rem;
+  display: flex;
+  width: 219px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 500;
+  text-decoration: none;
+  background: transparent !important;
+  color: #EDF2F7 !important;
+}
+
+a img{
+  width: 40px;
+  margin-right: 10px;
+}
+
+a{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 219px;
+  height: 31px;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 5px;
+}
+
+a:hover:not(a:first-of-type){
+  color: #81E6D9;
+  background: rgba(48, 140, 122, 0.3);
+}
+
+a:nth-of-type(1){
+  color: #81E6D9;
+  background: rgba(48, 140, 122, 0.3);
+}
+
+main{
+  padding: 3.5rem;
+  margin-left: 230px;
+}
+
+section {
+  height: fit-content;
+  max-width: 600px;
+  padding-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.code{
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+  max-width: 600px;
+  height: max-content;
+  border-radius: 10px;
+  background: #011627;
+  overflow-y: hidden; 
+  padding: 20px;
+  position: relative;
+}
+
+.copy{
+  top: 7%;
+  right: 2.5%;
+  position: absolute;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 12px;
+  color: #1A202C;
+  background: #81E6D9;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+code{ 
+  background: transparent;
+  white-space: nowrap;
+  margin: 2px 0;
+  font-family: SFMono-Regular,Menlo,Monaco,Consolas,monospace;
+  font-size: 1em;
+  line-height: normal;
+  letter-spacing: 1.5px;
+}
+
+.function{
+  background: transparent;
+  color: #82AAFF;
+}
+
+.comment{
+  background: transparent;
+  color: rgb(99, 119, 119);
+  font-style: italic;
+}
+
+.purple-text{
+  border-radius: 0.125rem;
+  -webkit-padding-start: 0.25rem;
+  padding-inline-start: 0.25rem;
+  -webkit-padding-end: 0.25rem;
+  padding-inline-end: 0.25rem;
+  font-size: 0.875em;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  line-height: normal;
+  background: transparent;
+  color: #D6BCFA;
+  white-space: nowrap;
+}
+
+.purple{
+  background: transparent;
+  color: #D6BCFA;
+}
+
+.import{
+  background: transparent;
+  color: #7FDBCA;
+}
+
+.text-code{
+  background: transparent;
+  color: #ADDB67;
+}
+
+.orange{
+  background: transparent;
+  color: #FFCB8B;
+}
+
+#framework_guide{
+  height: fit-content;
+  width: fit-content;
+  list-style-type:none;
+}
+
+.framework-grid{
+  margin-top: 2rem;
+  display: grid;
+  gap: 48px;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+@media (min-width: 1024px){
+  .framework-grid{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+  .framework-grid{
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.framework-grid li{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 156px;
+  background: #E2E8F0;
+  border-radius: 10px;
+}
+
+.framework-grid li:hover{
+  cursor: pointer;
+}
+
+li img{
+  background: transparent;
+  margin-top: 15px;
+  flex: 2;
+  width: 60px;
+  object-fit: contain;
+}
+
+.framework-text{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  width: 100%;
+  border-radius: 0 0 10px 10px;
+}
+
+
+.react{
+  background: #0AC09D;
+}
+.next{
+  background: #000000;
+}
+.gatsby{
+  background: #663399;
+}
+.blitz{
+  background: #6700EB;
+}
+.redwood{
+  background: #BF4722;
+}
+.remix{
+  background: #121212;
+}
+.vite{
+  background: #C07600;
+}
+
+#learn div{
+  margin: 2rem 0;
+  border: 0.5px solid grey;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#learn h3{
+  width: 100%;
+  padding: 16px 16px;
+  color: #EDF2F7;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 0 0 10px 10px;
+}
+
+#learn img{
+  width: 100%;
+  object-fit: contain;
+  border-radius: 10px 10px 0 0;
+}
+
+#contribute div{
+  width: 45%;
+  margin: 3rem 0;
+  border: 0.5px solid grey;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 16px;
+}
+
+#contribute h3{
+  padding: 16px 16px;
+  color: #EDF2F7;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 0 0 10px 10px;
+}
+
+#contribute img{
+  width: 20px;
+  height: 20px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#upgrading {
+  margin: -2rem 0;
+  height: 500px;
+}
+
+** end of undefined **
+

@@ -67,3 +67,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D16
 
  I've continued building the Technical Documentation Page on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D17
+
+ I've finished building the Technical Documentation Page on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
