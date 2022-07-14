@@ -172,3 +172,13 @@
 
 1. [Technical Documentation Page Certification Project](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 18: July 14, 2022 Thursday
+
+**Today's Progress**: I've started building a city skyline in freeCodeCamp :D
+
+**Thoughts** Only managed to complete 34 steps since it's already 2AM. Will probably do better tomorrow.
+
+**Link(s) to work**
+
+1. [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
