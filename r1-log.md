@@ -75,3 +75,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D18
 
  I've started the course for CSS variables on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D19
+
+ I've continued the course for CSS variables on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
