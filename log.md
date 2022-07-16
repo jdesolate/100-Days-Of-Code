@@ -192,3 +192,13 @@
 
 1. [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 20: July 16, 2022 Saturday
+
+**Today's Progress**: I've finally finished building the city skyline in freeCodeCamp :D
+
+**Thoughts** Had to rest for some time to recover from this week's fatigue 
+
+**Link(s) to work**
+
+1. [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
