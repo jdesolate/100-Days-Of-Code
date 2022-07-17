@@ -202,3 +202,13 @@
 
 1. [Learn CSS Variables by Building a City Skyline](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 21: July 17, 2022 Sunday
+
+**Today's Progress**: I've started building a magazine in freeCodeCamp :D
+
+**Thoughts** Already halfway on the steps
+
+**Link(s) to work**
+
+1. [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
