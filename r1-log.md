@@ -87,3 +87,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D21
 
   I've started building a magazine for learning CSS Grid on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D22
+
+  I've finished building a magazine for learning CSS Grid on the (New) Responsive Web Design Curriculum in FreeCodeCamp.

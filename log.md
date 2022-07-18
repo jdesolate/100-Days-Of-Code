@@ -212,3 +212,13 @@
 
 1. [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 22: July 18, 2022 Monday
+
+**Today's Progress**: I've finished building a magazine in freeCodeCamp :D
+
+**Thoughts** Learned about grid-auto-flow, auto columns and text columns
+
+**Link(s) to work**
+
+1. [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
