@@ -222,3 +222,13 @@
 
 1. [Learn CSS Grid by Building a Magazine](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 23: July 19, 2022 Tuesday
+
+**Today's Progress**: I've started building a Product Landing Page for my 2nd to the last certification project in FreeCodeCamp. 
+
+**Thoughts** Done structuring, will continue tomorrow for the content and styling.
+
+**Link(s) to work**
+
+1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
