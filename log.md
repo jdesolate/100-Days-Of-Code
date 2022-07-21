@@ -242,3 +242,13 @@
 
 1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 25: July 21, 2022 Thursday
+
+**Today's Progress**: I've made a high fidelity design for my product landing page in FreeCodeCamp. 
+
+**Thoughts** The design's halfway done, hopefully I'll be done with it tomorrow so that I can restructure my code and style it according to the design.
+
+**Link(s) to work**
+
+1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+

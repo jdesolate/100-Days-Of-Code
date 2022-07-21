@@ -99,3 +99,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D24
 
   I've continued building a Product Landing Page for my 4th certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp and made a lofi design.
+
+### R1D25
+
+  I've continued building a Product Landing Page for my 4th certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp and made a hifi design.
