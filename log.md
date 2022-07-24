@@ -272,3 +272,13 @@
 
 1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 28: July 24, 2022 Sunday
+
+**Today's Progress**: I've finished styling the middle and last section for the product landing page in FreeCodeCamp. 
+
+**Thoughts** Will continue the footer tomorrow and finally finish the 4th certification project. 
+
+**Link(s) to work**
+
+1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
