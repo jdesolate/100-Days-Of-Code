@@ -1,0 +1,494 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Tang</title>
+   <meta charset='UTF-8' />
+   <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+   <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"
+    />
+   <link rel='stylesheet' href='styles.css' />
+ </head>
+ <body>
+   <header id='header'>
+     <img id='header-img' src='https://upload.wikimedia.org/wikipedia/en/6/61/Tang_drinkmix_logo.png'/>
+     <nav id='nav-bar'>
+      <a class='nav-link' href='#flavors'>Flavors</a>
+      <a class='nav-link' href='#form'>Win Prizes</a>
+      <div class='line'></div>
+      <a class='nav-link' href='#order'>Order Now
+      <i class="fa-solid fa-circle-arrow-right fa-lg"></i></a>
+    </nav>
+   </header>
+   <main id='main-doc'>
+   <div class='circle'> </div>
+   <div class='circle2'> </div>
+     <section id='hero'>
+       <iframe id='video' width="560" height="315" src="https://www.youtube.com/embed/UHPEPgyEBPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <div class="hero-right">
+         <h1>Fill your home with love</h1>
+         <button>Be a Homemade Hero</button>
+       </div>
+     </section>
+     <section id='flavors'>
+        <h2>Flavors</h2>
+        <hr/>
+        <div class='flavor'>
+          <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/lychee.png?alt=media&token=ae4d41c3-a3d1-4fac-a6a0-55a0fdf2add1' />
+          <div class='flavor-right'>
+            <h2>LYCHEE</h2>
+            <p>Tang Powdered Juice Lychee flavor 20g</p>
+            <button>Next <i class="fa-solid fa-circle-arrow-right fa-lg"></i></button>
+          </div>
+        </div>
+     </section>
+     <section id='homemade'>
+       <h2>Be a Homemade Hero</h2>
+       <p>Follow these steps to fill your home with love</p>
+       <div id='steps'>
+           <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/step1.png?alt=media&token=4e5f8b00-d9c3-41f3-854d-d4603f1ce949' />
+           <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/step2.png?alt=media&token=2229f6f5-6c48-4416-bc9d-c376d1b5a1bd' />
+           <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/step3.png?alt=media&token=1e4f1626-f4bf-4c08-8be7-917232db3b44' />
+       </div>
+      <form id='form' action='https://www.freecodecamp.com/email-submit'>
+        <p>Get a chance to win exciting prizes!</p>
+        <div>
+          <input type='email' id='email' name='email' placeholder='Enter your email address' required>
+          <input type='submit' id='submit' value='Submit'>
+        </div>
+      </form>
+     </section>
+     <section id='order'>
+       <h2>Order Now</h2>
+       <p>Buy sachets on very affordable prices</p>
+       <div class='product-container'>
+         <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/dalandan.png?alt=media&token=96b45564-ed22-493c-be6c-317b95590ae6' />
+         <div class='price-container'>
+           <h3>Php 20.00</h3>
+           <p>Tang Dalandan Flavor</p>
+           <a>Select</a>
+         </div>
+       </div>
+       <div class='product-container'>
+         <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/orange.png?alt=media&token=1c20d3a2-4f3e-4afa-bdcc-b40fcf30322a' />
+         <div class='price-container'>
+           <h3>Php 20.00</h3>
+           <p>Tang Orange Flavor</p>
+           <a>Select</a>
+         </div>
+       </div>
+       <div class='product-container'>
+         <img src='https://firebasestorage.googleapis.com/v0/b/test-proj-1-158ec.appspot.com/o/bukopandan.png?alt=media&token=00cc31d5-f9b9-4e25-bf67-a584af98ab52' />
+         <div class='price-container'>
+           <h3>Php 20.00</h3>
+           <p>Tang Buko Pandan Flavor</p>
+           <a>Select</a>
+         </div>
+       </div>
+     </section>
+     <footer id='footer'>
+       <div class='footer-left'>
+          <p>Made with Tasty Juices</p>
+          <p>© MJT 2022</p>
+       </div>
+       <div class='footer-right'>
+          <div class="social-icons">
+          <a href="https://www.facebook.com/freecodecamp/">
+            <i class="fab fa-facebook-f fa-xl"></i>
+          </a>
+          <a href="https://twitter.com/freecodecamp/">
+            <i class="fab fa-twitter fa-xl"></i>
+          </a>
+          <a href="https://instagram.com/freecodecamp">
+            <i class="fab fa-instagram fa-xl"></i>
+          </a>
+          <a href="https://www.linkedin.com/school/free-code-camp/">
+            <i class="fab fa-linkedin-in fa-xl"></i>
+          </a>
+          <a href="https://www.youtube.com/freecodecamp">
+            <i class="fab fa-youtube fa-xl"></i>
+          </a>
+        </div>
+       </div>
+     </footer>
+   </main>
+ </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+:root{
+  --primary-color1: #FFFEF8;
+  --primary-color2: #FDF7F7;
+  --primary-color3: #A4B153;
+  --primary-color4: #363D0B;
+  --primary-color5: #FAFEE5;;
+  --accent-color1: #FFD728;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+}
+
+main {
+  position: relative;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#header-img{
+  width: 101px;
+  height: 84px;
+}
+
+nav{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.line{
+  height: 50px;
+  border: 1px solid white;
+}
+
+header a{
+  text-decoration: none;
+  color: var(--primary-color1);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+header a:last-of-type {
+  color: var(--primary-color3);
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.circle {
+  z-index: -2;
+  position: absolute;
+  top: -22%;
+  left: 22%;
+  width: 1288px;
+  height: 1402px;
+  background-color: var(--primary-color3);
+  border-radius: 50%;
+}
+
+.circle2 {
+  z-index: -2;
+  position: absolute;
+  top: -22%;
+  left: 32%;
+  width: 1288px;
+  height: 1402px;
+  background-color: var(--primary-color4);
+  border-radius: 50%;
+}
+
+#hero {
+  margin: 8rem 2rem;
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.hero-right {
+  padding: 10px 10px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+}
+
+.hero-right button{
+  width: 280px;
+  height: 65px;
+  border: none;
+  background-color: var(--accent-color1);
+  color: var(--primary-color4);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 28px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+iframe {
+  border-radius: 10px;
+  background: var(--primary-color3);
+  border: 5px solid var(--primary-color3);
+}
+
+h1{
+  font-weight: 800;
+  font-size: 56px;
+  line-height: 71px;
+  color: var(--primary-color1);
+}
+
+h2 {
+  font-weight: 800;
+  font-size: 42px;
+  line-height: 60px;
+  color: var(--primary-color4);
+}
+
+#flavors{
+  background-color: var(--primary-color2);
+  display: flex;
+  flex-direction: column;
+  padding: 30px 80px;
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+}
+
+#flavors img{
+  width: 290px;
+  height: 348px;
+}
+
+hr{
+  margin: 20px 0;
+  width: 100%;
+  height: 10px;
+  background: var(--primary-color3);
+  border: none;
+  border-radius: 10px;
+}
+
+.flavor{
+  align-self: center;
+  display: flex;
+  gap: 30px;
+  padding: 25px 15px;
+}
+
+.flavor-right {
+  padding: 25px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.flavor-right button{
+  margin-top: 30px;
+  align-self: flex-end;
+  width: 110px;
+  height: 55px;
+  background: none;
+  border: none;
+  color: var(--primary-color3);
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 28px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.flavor-right p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 26px;
+  color: var(--primary-color4);
+}
+
+p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 26px;
+  color: var(--primary-color4);
+}
+
+#homemade{
+  margin: 1rem 2rem;
+  padding: 30px 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#steps{
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+@media only screen and (max-width: 608px){
+  #steps{
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+form{
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 3.5rem;
+}
+
+form p{
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+}
+
+form div{
+  display: flex;
+  gap: 10px;
+}
+
+form input{
+  border-radius: 5px;
+  height: 60px;
+  font-size: 18px;
+  line-height: 24px;
+  border: none;
+}
+
+#email{
+  flex: 2;
+  background-color: var(--primary-color2);
+}
+
+#submit{
+  flex: 1;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--primary-color4);
+  background-color: var(--accent-color1);
+}
+
+#order{
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 80px;
+  margin-bottom: 5rem;
+  align-items: center;
+  gap: 50px;
+}
+
+#order h2{
+  font-size: 48px;
+}
+
+#order p{
+  margin-top: -1rem;
+}
+
+#order img{
+  width: 222px;
+  height: 272px;
+}
+
+.product-container{
+  width: 720px;
+  display: flex;
+  justify-content: flex-start;
+  gap: 50px;
+}
+
+.price-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  width: 620px;
+  gap: 15px;
+  
+  background-color: var(--primary-color5);
+}
+
+h3{
+font-weight: 800;
+font-size: 36px;
+line-height: 51px;
+color: var(--primary-color4);
+margin-bottom: 1rem;
+}
+
+.price-container a{
+  margin-top: 40px;
+  text-decoration: none;
+  color: var(--primary-color3);
+  align-self: flex-end;
+  font-size: 22px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.price-container p{
+  margin-top: 2rem;
+  font-size: 20px;
+}
+
+footer{
+  margin-top: 2rem;
+  display: flex;
+  padding: 2rem 2.5rem;
+  height: 180px;
+  background-color: var(--primary-color4);
+}
+
+.footer-left{
+  flex:1;
+}
+
+.footer-left p{
+  color: var(--primary-color1);
+  font-size: 20px;
+  margin-bottom: 60px;
+}
+
+.footer-left p:last-of-type{
+  font-size: 16px;
+  color: var(--primary-color3);
+}
+
+.footer-right{
+  flex:1;
+  padding-left: 2rem;
+}
+
+.social-icons {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+}
+
+.social-icons a {
+  
+  margin-top: 10px;
+  text-decoration: none;
+  color: var(--primary-color1);
+}
+
+
+** end of undefined **
+

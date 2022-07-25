@@ -115,3 +115,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D28
 
   I've continued building a Product Landing Page for my 4th certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp and finished styling the middle and last section for the product landing page. 
+
+### R1D29
+
+  I've finally finished building a Product Landing Page for my 4th certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
