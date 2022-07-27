@@ -300,5 +300,15 @@
 
 **Link(s) to work**
 
-1. [Product Landing Page](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+1. [Learn CSS Animations by Building a Ferris Wheel](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+### Day 31: July 27, 2022 Wednesday
+
+**Today's Progress**: I've finished making the penguin for learning CSS Transforms in FreeCodeCamp. 
+
+**Thoughts** Onwards to the final certification project!   
+
+**Link(s) to work**
+
+1. [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 

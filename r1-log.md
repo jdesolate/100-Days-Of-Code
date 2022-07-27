@@ -123,3 +123,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D30
 
   I've built a ferris wheel on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D31
+
+  I've made a penguin on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
