@@ -312,3 +312,14 @@
 
 1. [Learn CSS Transforms by Building a Penguin](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+
+### Day 32: July 28, 2022 Thursday
+
+**Today's Progress**: I've started building the last certification project for Responsive Web Design in FreeCodeCamp. 
+
+**Thoughts** Will probably take more days to finish it   
+
+**Link(s) to work**
+
+1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+

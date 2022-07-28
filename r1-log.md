@@ -127,3 +127,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D31
 
   I've made a penguin on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
+
+### R1D32
+
+  I've started building the last certification project on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
