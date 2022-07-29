@@ -323,3 +323,13 @@
 
 1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 33: July 29, 2022 Friday
+
+**Today's Progress**: I've searched for portfolio reviews, checked out some font styles and color schemes to decide what I'll use for my portfolio webpage in freeCodeCamp. 
+
+**Thoughts** Also tried to make some lofi idea for its initial look.   
+
+**Link(s) to work**
+
+1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
