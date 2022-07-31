@@ -343,3 +343,14 @@
 
 1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 35: July 31, 2022 Sunday
+
+**Today's Progress**: I'm almost done making the overall design of the portfolio for Responsive Web Design in FreeCodeCamp.
+
+**Thoughts** I've decided to use images from the certification projects in 
+freeCodeCamp for the project section. 
+
+**Link(s) to work**
+
+1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
