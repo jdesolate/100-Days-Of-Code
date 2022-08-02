@@ -364,3 +364,13 @@ freeCodeCamp for the project section.
 
 1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 37: Aug 2, 2022 Tuesday
+
+**Today's Progress**: I've finished styling the navbar and welcome-section for mobile in css for my portfolio project in freeCodeCamp.
+
+**Thoughts** I'll be continuing its responsiveness for web and the about/project section next. 
+
+**Link(s) to work**
+
+1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
