@@ -384,3 +384,13 @@ freeCodeCamp for the project section.
 
 1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 39: Aug 4, 2022 Thursday
+
+**Today's Progress**: I've started doing the projects section for my portfolio webpage in freeCodeCamp. 
+
+**Thoughts** Still halfway through, it took more time than I thought.
+
+**Link(s) to work**
+
+1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
