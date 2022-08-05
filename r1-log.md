@@ -159,3 +159,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D39
 
   I've continued building the portfolio project on the (New) Responsive Web Design Curriculum in FreeCodeCamp. Still not yet done with projects section, took more time with its responsiveness.
+
+### R1D39
+
+  I've continued doing the projects and contact section for my portfolio webpage in freeCodeCamp. 
