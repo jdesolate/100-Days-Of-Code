@@ -1,0 +1,532 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio Webpage</title>
+    <meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' href='styles.css' />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav id='navbar'>
+        <a href='#about-section'>About me</a>
+        <a href='#contact'>Contact Me</a>
+      </nav>
+    </header>
+    <section id='welcome-section'>
+      <h1>Hey, I'm <br /><span class='name'>Mervin John Tampus</span> .</h1>
+      <div class='welcome-hero'>
+        <img class='pic-svg' alt='Responsive svg from unDraw.co' src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Fwebapps.svg?alt=media&token=5f68607c-930e-497e-bd2c-b79774f9391f' />
+        <div class='welcome-hero-text'>
+          <h2 class='service'>I build responsive web applications</h2>
+          <a href='#projects'>My Projects</a>
+        </div>
+      </div>
+    </section>
+    <section id='about-section'>
+      <div class='about-text'>    
+        <h1>Let's work together!</h1>
+        <p>I’m looking to build more apps to gain experience and hone my skills.</p>
+      <div>
+      <img class='pic-svg' alt='Co-workers svg from unDraw.co' src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Fworktogether.svg?alt=media&token=e92c4755-e636-4a71-937e-2b701a9318e5' />
+    </section>
+    
+    <h2 class='projects-title'>My Projects</h2>
+    <section id='projects'>
+      <a class='project-tile' href='/'>
+        <div class='project-img-container'>
+          <img src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Fsurveyform.png?alt=media&token=2fe28fd0-8b20-475d-ac37-f31b874cb416' />
+        </div>
+        <div class='project-txt-container'>
+          <h3>Survey Form</h3>
+          <p>I built a survey form with html and css in freeCodeCamp’s Responsive Web Design Certification 2022.</p>
+          <div class='row'>
+            <i class="fab fa-html5 fa-2x"></i>
+            <i class="fa-brands fa-css3-alt fa-2x"></i>
+          </div>
+        </div>
+      </a>
+      <a class='project-tile' href='/'>
+        <div class='project-img-container'>
+          <img src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Ftribute.png?alt=media&token=429f6234-55ae-4ab2-8265-e85bb0eb088c' />
+        </div>
+        <div class='project-txt-container'>
+          <h3>Tribute Page</h3>
+          <p>I built a tribute page with html and css in freeCodeCamp’s Responsive Web Design Certification 2022.</p>
+          <div class='row'>
+            <i class="fab fa-html5 fa-2x"></i>
+            <i class="fa-brands fa-css3-alt fa-2x"></i>
+          </div>
+        </div>
+      </a>
+      <a class='project-tile' href='/'>
+        <div class='project-img-container'>
+          <img src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Fdocpage.png?alt=media&token=045d869b-1c73-48fa-964a-34d425a09b96' />
+        </div>
+        <div class='project-txt-container'>
+          <h3>Documentation Page</h3>
+          <p>I built a documentation page with html and css in freeCodeCamp’s Responsive Web Design Certification 2022.</p>
+          <div class='row'>
+            <i class="fab fa-html5 fa-2x"></i>
+            <i class="fa-brands fa-css3-alt fa-2x"></i>
+          </div>
+        </div>
+      </a>
+      <a class='project-tile' href='/'>
+        <div class='project-img-container'>
+          <img src='https://firebasestorage.googleapis.com/v0/b/altruwiz-dev.appspot.com/o/fcc%2Fprodlanding.png?alt=media&token=b1ec71c6-605c-4a86-a4ef-b716e845efbc' />
+        </div>
+        <div class='project-txt-container'>
+          <h3>Product Landing Page</h3>
+          <p>I built a product landing page with html and css in freeCodeCamp’s Responsive Web Design Certification 2022.</p>
+          <div class='row'>
+            <i class="fab fa-html5 fa-2x"></i>
+            <i class="fa-brands fa-css3-alt fa-2x"></i>
+          </div>
+        </div>
+      </a>
+    </section>
+    <section id='contact'>
+      <h1>Share your experience</h1>
+      <p>Very grateful to freeCodeCamp for giving me a great experience. 
+        I’d definitely encourage everyone to join #100DaysOfCode 
+        challenge and connect with other developers.</p>
+      <div class='contact-buttons'>
+       <i class="fas fa-envelope fa-2x"></i> <a id='profile-link' href='#' target='_blank'>Email</a>
+       <i class="fab fa-twitter fa-2x"></i> <a id='profile-link' href='#' target='_blank'>Twitter</a>
+       <i class="fab fa-linkedin fa-2x"></i> <a id='profile-link' href='#' target='_blank'>LinkedIn</a>
+       <i class="fab fa-github fa-2x"></i> <a id='profile-link' href='#' target='_blank'>Github</a>
+      </div>
+    </section>
+    <footer>
+      <p class='footer-p'>All the projects here are all from my outputs 
+        in Responsive Web Design Certification.</p>
+      <p>© Created for freeCodeCamp 2022</p>
+    </footer>
+  </body>
+</html>
+
+
+** end of undefined **
+
+** start of undefined **
+
+:root {
+  --primary-color1: #141010;
+  --primary-color2: #79052E;
+  --accent-color1: #F50057;
+  --accent-color2: #F70776;
+  --gray: #A8A8A8;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, span{
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--primary-color1);
+}
+
+header {
+  z-index: 10;
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 12vh;
+  background-color: var(--primary-color1);
+}
+
+nav {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav a {
+  color: var(--gray);
+  margin: 0 5vw;
+  font-weight: 600;
+}
+
+
+nav a:hover {
+  color: var(--accent-color1);
+}
+
+nav a:last-of-type{
+  padding: 5px 15px;
+  border-radius: 20px;
+  border: 2px solid var(--gray);
+}
+
+nav a:last-of-type:hover{
+  border: 2px solid var(--accent-color1);
+}
+
+
+@media only screen and (min-width: 720px) {
+  nav {
+    justify-content: flex-end;
+    padding-right: 5vw;
+  }
+  nav a {
+    margin: 0 2.5vw;
+  }
+}
+
+#welcome-section {
+  margin-top: -10vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5vh;
+}
+
+.welcome-hero {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.name {
+  color: var(--accent-color2);
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 72px;
+  letter-spacing: 0.01em;
+}
+
+.service {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 152.5%;
+  text-align: justify;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F50057 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+
+@media only screen and (min-width: 720px) {
+  #welcome-section {
+    width: 75%;
+    padding: 0 2.5vw;
+    align-items: flex-start;
+  }
+  .welcome-hero {
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  #welcome-section h1 {
+    margin-left: 4vw;
+  }
+
+  .service {
+    text-align: left;
+  }
+}
+
+.pic-svg {
+  width: 320px;
+}
+
+.welcome-hero.pic-svg {
+  margin-bottom: 5vh;
+}
+
+.welcome-hero-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 550px;
+}
+
+.welcome-hero-text a{
+  margin-top: 5vh;
+  color: var(--accent-color1);
+  border: 2px solid var(--accent-color1);
+  height: 50px;
+  width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+
+.welcome-hero-text a:hover {
+  color: var(--gray);
+  border: 2px solid var(--gray);
+}
+
+@media only screen and (min-width: 920px) {
+  .pic-svg {
+    width: 500px;
+  }
+ 
+  .welcome-hero.pic-svg {
+    margin-bottom: 0;
+  }
+
+  .welcome-hero {
+    width: auto;
+    align-self: center;
+    gap: 5rem;
+  }
+  
+  #welcome-section h1 {
+    font-size: 32px;
+  }
+  
+  #welcome-section {
+    gap:5rem;
+    width: 90%;
+  }
+
+  .name {
+    font-size: 44px;
+    line-height: 80px;
+    letter-spacing: 0.02em;
+  }
+
+  .service {
+    font-size: 41px;
+  }
+  
+  .welcome-hero-text a{
+    margin-top: 5rem;
+    font-size: 22px;
+    height: 70px;
+    width: 250px;
+  }
+}
+
+#about-section {
+  background-color: var(--primary-color2);
+  height: 85vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#about-section div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.about-text h1{
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 72px;
+}
+
+.about-text p{
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 54px;
+  margin-bottom: 30px;
+}
+
+@media only screen and (min-width: 720px) { 
+  .about-text h1{
+    align-self: flex-start;
+    font-size: 36px;
+  }
+
+  .about-text p{
+    font-size: 22px;
+  }
+}
+
+#projects {
+  margin: 10vh 2vw;
+  display: grid;
+  grid-template-columns: repeat(1 , 1fr);
+}
+
+.projects-title {
+  margin-top: 5rem;
+  margin-bottom: -5rem;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 78px;
+}
+.project-tile {
+  margin: 5vh 0;
+  width: 600px;
+  align-items: center;
+  display: flex;
+  height: 300px;
+  position: relative;
+}
+
+.project-img-container {
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  height: 80%;
+  padding: 0.8rem; 
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: var(--primary-color2);
+}
+.project-img-container img{
+  width: 220px;
+  height: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.project-txt-container{
+  position: absolute;
+  right: 0;
+  gap: 15px;
+  padding: 0 25px;
+  height: 90%;
+  max-width: 360px;
+  border-radius: 10px;
+  background-color: #251E1E;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.project-txt-container h3 {
+  color: var(--accent-color2);
+}
+.project-txt-container p {
+  color: white;
+}
+
+.row {
+  align-self: flex-end;
+  color: var(--accent-color1);
+}
+
+i{
+  margin-right: 10px;
+}
+
+#contact {
+  margin-top: -15rem;
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items :center;
+  justify-content: center;
+  height: 80vh;
+  gap: 5rem;
+  padding: 20px;
+}
+
+#contact i{
+  color: var(--accent-color1);
+}
+
+#contact h1{
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 152.5%;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F50057 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+#contact p {
+  color: var(--gray);
+  text-align: justify;
+  max-width: 920px;
+}
+
+#contact a {
+  color: white;
+  margin: 0 4vw 0 0;
+  font-size: 22px;
+}
+
+footer {
+  padding: 2rem;
+  height: 25vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  color: white;
+  background-color: #27000E;
+}
+
+.footer-p{
+  font-size: 18px;
+  margin-bottom: 2rem;
+}
+
+footer p{
+  font-size: 14px;
+}
+
+
+@media only screen and (min-width: 1200px) {
+  #projects {
+  grid-template-columns: repeat(2 , 1fr);
+  column-gap: 50px;
+  }
+  
+  #contact h1{
+    font-size: 42px;
+    line-height: 152.5%;
+  }
+
+  #contact p{
+    font-size: 22px;
+  }
+}
+
+** end of undefined **
+

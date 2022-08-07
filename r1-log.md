@@ -167,3 +167,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D41
 
   I'm 90% done with my portfolio webpage in freeCodeCamp. Will finalize everything tomorrow.
+
+### R1D42
+
+  I'm done with my portfolio webpage in freeCodeCamp.
