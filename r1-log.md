@@ -171,3 +171,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D42
 
   I'm done with my portfolio webpage in freeCodeCamp.
+
+### R1D43
+
+  I've reviewed all my certificateion projects, revised some and resubmitted. Then claimed my certificate in freeCodeCamp.

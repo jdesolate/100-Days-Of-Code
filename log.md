@@ -424,3 +424,13 @@ freeCodeCamp for the project section.
 
 1. [Build a Personal Portfolio Webpage](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+### Day 43: Aug 8, 2022 Monday
+
+**Today's Progress**: I've reviewed all my certificateion projects, revised some and resubmitted. Then I've claimed my Responsive Web Design Certificate in freeCodeCamp!
+
+**Thoughts** After tons of excuses last year, I finally achieved one of my personal goals.
+
+**Link(s) to work**
+
+1. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/MervinTampus/responsive-web-design)
+
