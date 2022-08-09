@@ -175,3 +175,7 @@ I've built a Quiz on the (New) Responsive Web Design Curriculum in FreeCodeCamp.
 ### R1D43
 
   I've reviewed all my certificateion projects, revised some and resubmitted. Then claimed my certificate in freeCodeCamp.
+
+### R1D44
+
+  I've started watching DSA tutorial of freeCodeCamp in YT and also got started with Javascript Algorithm and Data Structures Certification for practice.

@@ -434,3 +434,13 @@ freeCodeCamp for the project section.
 
 1. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/MervinTampus/responsive-web-design)
 
+### Day 44: Aug 9, 2022 Tuesday
+
+**Today's Progress**: I've started watching DSA tutorial of freeCodeCamp in YT and also got started with Javascript Algorithm and Data Structures Certification for practice.
+
+**Thoughts** Reviewed basic Javascript and definition of algorithm. Algorithm is the step by step process of accomplishing a task. 
+
+**Link(s) to work**
+
+1. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/MervinTampus/responsive-web-design)
+
