@@ -454,3 +454,14 @@ freeCodeCamp for the project section.
 
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=2548s)
+
+### Day 46: Aug 10, 2022 Thursday
+
+**Today's Progress**: Still watched freeCodeCamp's DSA tutorial and learned about different time complexities like linear, quadratic quasilinear, & exponential.
+
+**Thoughts** Also continued Basic Javascript in DSA course 
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=4107s)

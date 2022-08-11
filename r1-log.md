@@ -183,3 +183,7 @@ I've started watching DSA tutorial of freeCodeCamp in YT and also got started wi
 ### R1D45
 
 I've continued watching freeCodeCamp's DSA tutorial for half an hour and was able to recall concepts about algorithms, linear search, binary search, and big O notation. I'm also halfway done with basic javascript in Javascript Algorithm and Data Structures Certification.
+
+### R1D46
+
+Still watched freeCodeCamp's DSA tutorial and learned about different time complexities like linear, quadratic quasilinear, & exponential. Also continued Basic Javascript in Javascript Algorithm and Data Structures Certification.
