@@ -455,7 +455,7 @@ freeCodeCamp for the project section.
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=2548s)
 
-### Day 46: Aug 10, 2022 Thursday
+### Day 46: Aug 11, 2022 Thursday
 
 **Today's Progress**: Still watched freeCodeCamp's DSA tutorial and learned about different time complexities like linear, quadratic quasilinear, & exponential.
 
@@ -465,3 +465,14 @@ freeCodeCamp for the project section.
 
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=4107s)
+
+### Day 47: Aug 12, 2022 Friday
+
+**Today's Progress**: I'm 80% done with Basic Javascript in DSA course of freeCodeCamp and watched algorithms in code in their DSA tutorial where I've learned how they implemented linear search, binary search, and recursive binary search using Python.
+
+**Thoughts** In linear search, it can be done mostly with the use of the most common for loop iterating over all items. Binary search can be done by getting the midpoint of the indeces with first+last/2 and return midpoint index if item === target, else if midpoint value is less than target then midpoint+1, then iterate again until position is obtained. 
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)

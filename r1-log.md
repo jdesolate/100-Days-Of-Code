@@ -187,3 +187,7 @@ I've continued watching freeCodeCamp's DSA tutorial for half an hour and was abl
 ### R1D46
 
 Still watched freeCodeCamp's DSA tutorial and learned about different time complexities like linear, quadratic quasilinear, & exponential. Also continued Basic Javascript in Javascript Algorithm and Data Structures Certification.
+
+### R1D47
+
+I'm 80% done with Basic Javascript in DSA course of freeCodeCamp and watched algorithms in code in their DSA tutorial where I've learned how they implemented linear search, binary search, and recursive binary search using Python.
