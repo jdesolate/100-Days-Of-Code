@@ -191,3 +191,11 @@ Still watched freeCodeCamp's DSA tutorial and learned about different time compl
 ### R1D47
 
 I'm 80% done with Basic Javascript in DSA course of freeCodeCamp and watched algorithms in code in their DSA tutorial where I've learned how they implemented linear search, binary search, and recursive binary search using Python.
+
+### R1D48
+
+I'm 90% done with Basic Javascript in DSA course of freeCodeCamp.
+
+### R1D49
+
+I'm 100% done with Basic Javascript in DSA course of freeCodeCamp.

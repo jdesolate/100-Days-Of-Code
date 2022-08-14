@@ -476,3 +476,25 @@ freeCodeCamp for the project section.
 
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
+
+### Day 48: Aug 13, 2022 Saturday
+
+**Today's Progress**: Continued DSA course for Javascript in freeCodeCamp.
+
+**Thoughts** Small progress since I had a family occasion.
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
+
+### Day 49: Aug 14, 2022 Sunday
+
+**Today's Progress**: Finished DSA course for Javascript in freeCodeCamp.
+
+**Thoughts** Small progress since I had a family occasion.
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
