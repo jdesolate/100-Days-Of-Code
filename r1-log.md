@@ -199,3 +199,7 @@ I'm 90% done with Basic Javascript in DSA course of freeCodeCamp.
 ### R1D49
 
 I'm 100% done with Basic Javascript in DSA course of freeCodeCamp.
+
+### R1D50
+
+I'm 28% done with ES6 course in DSA certification in freeCodeCamp.
