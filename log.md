@@ -509,3 +509,15 @@ freeCodeCamp for the project section.
 
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
+
+### Day 51: Aug 16, 2022 Tuesday
+
+**Today's Progress**: I'm 100% done with ES6 course in DSA certification in freeCodeCamp.
+
+**Thoughts** Next is regular expressions
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
+
