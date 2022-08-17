@@ -207,3 +207,7 @@ I'm 28% done with ES6 course in DSA certification in freeCodeCamp.
 ### R1D51
 
 I'm finished with ES6 course in DSA certification in freeCodeCamp.
+
+### R1D52
+
+I'm 52% done with Regular Expressions course in DSA certification in freeCodeCamp.

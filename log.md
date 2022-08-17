@@ -521,3 +521,15 @@ freeCodeCamp for the project section.
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&t=6042s)
 
+
+### Day 52: Aug 17, 2022 Wednesday
+
+**Today's Progress**: I'm 52% done with Regular Expressions course in DSA certification in freeCodeCamp.
+
+**Thoughts** Also learned about space complexity and implementation of recursive binary search using Python. 
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0?t=7067)
+
