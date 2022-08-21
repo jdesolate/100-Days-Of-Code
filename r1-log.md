@@ -215,3 +215,11 @@ I'm 52% done with Regular Expressions course in DSA certification in freeCodeCam
 ### R1D53
 
 I'm 100% done with Regular Expressions course in DSA certification in freeCodeCamp.
+
+### R1D54
+
+I'm 100% done with Debugging course in DSA certification in freeCodeCamp.
+
+### R1D55
+
+I'm 60% done with Basic Data Structures course in DSA certification in freeCodeCamp.
