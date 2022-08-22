@@ -223,3 +223,7 @@ I'm 100% done with Debugging course in DSA certification in freeCodeCamp.
 ### R1D55
 
 I'm 60% done with Basic Data Structures course in DSA certification in freeCodeCamp.
+
+### R1D56
+
+I'm done with Basic Data Structures course in DSA certification in freeCodeCamp.
