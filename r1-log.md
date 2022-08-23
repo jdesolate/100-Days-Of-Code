@@ -227,3 +227,7 @@ I'm 60% done with Basic Data Structures course in DSA certification in freeCodeC
 ### R1D56
 
 I'm done with Basic Data Structures course in DSA certification in freeCodeCamp.
+
+### R1D57
+
+I'm 50% done with Basic Algorithm Scripting course in DSA certification in freeCodeCamp.
