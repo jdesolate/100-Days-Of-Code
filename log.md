@@ -599,3 +599,25 @@ Thursday - skip (SICK)
 
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0?t=7067)
+
+### Day 59: Aug 25, 2022 Thursday
+
+**Today's Progress**:  I'm 50% done with Object Oriented Programming course in DSA certification in freeCodeCamp.
+
+**Thoughts** Learned a lot on how OOP works in JavaScript 
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0?t=7067)
+
+### Day 60: Aug 26, 2022 Friday
+
+**Today's Progress**: Finally finished Object Oriented Programming course in DSA certification in freeCodeCamp.
+
+**Thoughts** Will proceed to functional programming next :)
+
+**Link(s) to work**
+
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
+1. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0?t=7067)
